@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lenovo/CLionProjects/RISC5/Instruction.hpp
+Memory.hpp
+C:/Users/lenovo/CLionProjects/RISC5/Memory.hpp
+iostream
+-
+
+C:/Users/lenovo/CLionProjects/RISC5/Memory.hpp
+Useful_Functions.hpp
+C:/Users/lenovo/CLionProjects/RISC5/Useful_Functions.hpp
+
+C:/Users/lenovo/CLionProjects/RISC5/Useful_Functions.hpp
+
+C:/Users/lenovo/CLionProjects/RISC5/main.cpp
+iostream
+-
+Instruction.hpp
+C:/Users/lenovo/CLionProjects/RISC5/Instruction.hpp
+
